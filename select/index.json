@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "忘れじの言の葉",
+  "base_artist": "未来古代楽団",
+  "createdAt": "2026-02-06T16:18:43.536139Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "忘れじの言の葉",
+      "artist": "DAZBEE",
+      "has_synced": true,
+      "path": "select/01_忘れじの言の葉_DAZBEE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "忘れじの言の葉 - Wasureji No Kotonoha",
+      "artist": "DAZBEE",
+      "has_synced": true,
+      "path": "select/02_忘れじの言の葉_-_Wasureji_No_Kotonoha_DAZBEE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "忘れじの言の葉",
+      "artist": "R+...",
+      "has_synced": true,
+      "path": "select/03_忘れじの言の葉_R+....lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "忘れじの言の葉",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/04_忘れじの言の葉_Yorushika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "忘れじの言の葉",
+      "artist": "未来古代楽団",
+      "has_synced": false,
+      "path": "select/pl_01_忘れじの言の葉_未来古代楽団.txt"
+    }
+  ]
+}
